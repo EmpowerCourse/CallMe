@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!--copy this file as App.config and add your Twilio Sid, Token, and From Number below-->
+    <add key="TwilioSid" value="" />
+    <add key="TwilioToken" value="" />
+    <add key="TwilioFromNumber" value="" />
+  </appSettings>
+</configuration>
